@@ -33,8 +33,6 @@
 ## Key Features
 
 * Deeplearning Model With 88% 💪 Accuracy
-* Onnx Model Is Available in [Releases](https://github.com/Muthu-Palaniyappan-OL/rock_paper_scissor/releases/latest)
-* Onnx Model is deployed in Android App 📱 which is also available in [Releases](https://github.com/Muthu-Palaniyappan-OL/rock_paper_scissor/releases/latest)
 * Deep Learning Model is capable of Classifying Images into 3 classes (rock ✊, paper 🤚, scissor ✌️)
 * Trained in colab
 
@@ -49,11 +47,6 @@
 ```sh
 git clone https://github.com/Muthu-Palaniyappan-OL/rock_paper_scissor.git
 ```
-
-## Contact Us
-
-- [Muthu Palaniyappan OL](https://twitter.com/iampalaniyappan)
-
 
 ## License
 
